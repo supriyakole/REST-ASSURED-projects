@@ -1,0 +1,10 @@
+apichaining\EndToEndTest.class
+github\EndtoEndTest.class
+restapi\PostReqwithMAP.class
+restapi\DeleteReq.class
+restapi\PostReqWithJsonObject.class
+restapi\PostReqwithFILE.class
+restapi\POSTrequest.class
+restapi\GETrequest.class
+restapi\PUTrequest.class
+restapi\GETrequestwithPARAMS.class
